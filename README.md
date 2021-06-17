@@ -8,3 +8,4 @@ The dataset I used is hand-write digits 0 through 9, taken from sklearn library 
 <img src="images/before.png" style=widht:300px height=300px>
   
 # Data points after
+  <img src="images/after.png" style=widht:300px height=300px>
