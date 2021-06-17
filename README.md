@@ -4,8 +4,8 @@ K-means clustering is a type of unsupervised learning, which is used when you ha
 <br><br>
 The dataset I used is hand-write digits 0 through 9, taken from sklearn library datasets.<b>
   
-# Data points before
+# Data points before clustering division
 <img src="images/before.png" style=widht:400px height=400px>
   
-# Data points after
+# Data points after clustering division
   <img src="images/after.png" style=widht:400px height=400px>
